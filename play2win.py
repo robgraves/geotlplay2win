@@ -154,10 +154,10 @@ def gamewincalc():
 	#allow the human element to fix the bias of a "desirability" rating.
 	#
   
-
 	pass
 
 
+`
 ##########################
 #
 # MAIN MENU
